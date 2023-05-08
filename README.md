@@ -1,7 +1,7 @@
 # Portfolio
 ![alt text](images/Readme.png)
 
-Dies ist ein HTML-Code für meine Portfolio-Website (Anila Ghasemi).
+Dies ist ein HTML-Code für meine Portfolio-Website (Anila Qasemi).
 
 Ich habe HTML, CSS und ein wenig JavaScript auf dieser Seite verwendet.
 
